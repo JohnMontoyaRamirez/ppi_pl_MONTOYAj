@@ -1,6 +1,8 @@
-# Proyecto libre PPI 2024-2s
+# Programando con John
 
-La idea de mi proyecto libre es un canal de youtube esencialmente dedicado, a tutoriales de programación varios, quiero hacer cosas en C, C++, React, HTML, CSS, javascript, typescript.
+Este repositorio es una entrada a lo que sera el mundo de la programación front end, es un repositorio dedicado a subir los proyectos que se hagan en el canal de youtube Programando con John, canal dedicado principalmente a HTML, CSS, y Javascript. Estará lleno de tutoriales para que juntos continuemos aprendiendo a hacer desarrollo web.
+
+```Videos:```
 
 
 
